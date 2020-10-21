@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "to-do-list-gameoreba"
+    }
+  },
+  "defaultProject": "to-do-list-gameoreba",
+  "cli": {
+    "analytics": false
+  }
 }
